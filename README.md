@@ -47,8 +47,7 @@ __Technologies__: Digital Forensics, Malware Analysis, Windows Internals, IOC Ex
 View on GitHub
 
 ## 💼 Professional Experience
-###Cloud Support Engineer II @ Amazon Web Services (AWS)
-__(March 2022 – June 2025)__
+__Cloud Support Engineer II @ Amazon Web Services (AWS) | March 2022 – June 2025__
 - Served as a Security Guardian, performing preliminary security reviews of infrastructure (IaC) and code for internal applications before escalation to the AppSec team.
 - Provided expert-level support for core AWS security and infrastructure services, including IAM, VPC, CloudTrail, CloudWatch, GuardDuty, S3, and EC2.
 - Designed and developed secure full-stack applications using Python, TypeScript, and AWS CDK, adhering to security best practices and the principle of least privilege.
