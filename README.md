@@ -1,12 +1,14 @@
 # Hi there, I'm Andrew 👋
 
-I'm a Software Engineer specializing in full-stack development and cloud automation.
+I'm an engineer passionate about building robust and scalable solutions at the intersection of data and software.
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm an ex-AWS Cloud Support Engineer with over three years of experience building full-stack web applications, tooling, and automation within complex cloud ecosystems. My practical experience is backed by a **Master's Degree in Cybersecurity and Information Assurance**, giving me a unique perspective on creating software that is not only functional and scalable but also secure. I'm passionate about solving complex problems and building efficient solutions in the cloud.
+As a former AWS Cloud Support Engineer, I've spent over three years diving deep into complex cloud architectures. My experience spans the full spectrum, from engineering petabyte-scale data pipelines with technologies like Spark and Presto, to building secure, full-stack applications and automation tools with Python.
+
+This dual expertise in data systems and software development, combined with a Master's in Cybersecurity, allows me to tackle complex challenges with a focus on creating solutions that are not only scalable and efficient but also secure by design.
 
 ---
 
