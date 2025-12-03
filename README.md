@@ -28,14 +28,6 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
 **Cloud & DevOps:**
 
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#) [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
----
-
-### 📊 My GitHub Stats
-(It's a work in progress 😂)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=blu371ck&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blu371ck&layout=compact&theme=radical&hide_border=true)
 
 ---
 
